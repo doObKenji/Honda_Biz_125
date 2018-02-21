@@ -1,0 +1,40 @@
+<projectDescription>
+  <id>1268944693916</id>
+  <name>Biz 125 New</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/gustavo.felizola/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/gustavo.felizola/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="index.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/index.fla</uri>
+    <uri label="main.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/main.fla</uri>
+    <uri label="nav.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/nav.fla</uri>
+    <uri label="preload.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/preload.fla</uri>
+    <uri label="caracteristicas.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/caracteristicas.fla</uri>
+    <uri label="como_comprar.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/como_comprar.fla</uri>
+    <uri label="cores.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/cores.fla</uri>
+    <uri label="downloads.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/downloads.fla</uri>
+    <uri label="especificacoes.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/especificacoes.fla</uri>
+    <uri label="galeria.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/galeria.fla</uri>
+    <uri label="versaoex.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/versaoex.fla</uri>
+    <uri label="home.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/home.fla</uri>
+    <uri label="barra_linha2011.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/barra_linha2011.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="especificacoes.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/especificacoes.fla</uri>
+    <uri label="galeria.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/galeria.fla</uri>
+    <uri label="versaoex.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/versaoex.fla</uri>
+    <uri label="como_comprar.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/como_comprar.fla</uri>
+    <uri label="nav.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/nav.fla</uri>
+    <uri label="main.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/main.fla</uri>
+    <uri label="downloads.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/swf/downloads.fla</uri>
+    <uri label="home.fla">file:///Z|/Clientes/HONDA/2011/01_PRODUTOS/BIZ 125/Inclusão de link Versão EX/03_produção/flash/home.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
